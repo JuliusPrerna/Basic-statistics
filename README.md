@@ -41,5 +41,5 @@ The dataset contains transactional sales data including:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   https://github.com/JuliusPrerna/Basic-statistics.git
+   cd Basic-statistics.git
